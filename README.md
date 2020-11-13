@@ -1,1 +1,2 @@
-# lab2
+## Regresión Logística y Descenso de Gradiente
+Esta práctica consiste en la definición de una función de costes de una Regresión Logística. El objetivo es calcular el descenso de gradiente para optimizar dicha función. Todo el proceso se realizará con funciones básicas de Python. Para ello, contamos con una base de datos que contiene 100 observaciones con los resultados de dos pruebas y una tercera variable que indica el resultado de las pruebas: 1 para los aporbados y 0 para los suspensos.
