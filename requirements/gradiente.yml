@@ -1,0 +1,4 @@
+name: gradiente
+channels:
+  - defaults
+prefix: C:\Users\carlo\anaconda3\envs\gradiente
